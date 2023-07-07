@@ -1,0 +1,91 @@
+[
+    {
+        "title": "Which country has won the most FIFA World Cup titles in soccer?",
+        "answer_1": "Brazil",
+        "answer_2": "Germany",
+        "answer_3": "Argentina",
+        "answer_4": "France",
+        "right_answer": "Brazil"
+    },
+
+    {
+        "title": "Who is the all-time leading scorer in NBA history?",
+        "answer_1": "LeBron James",
+        "answer_2": "Michael Jordan",
+        "answer_3": "Kareem Abdul-Jabbar",
+        "answer_4": "Kobe Bryant",
+        "right_answer": "Kareem Abdul-Jabbar"
+    },
+
+    {
+        "title": "Which athlete has won the most Olympic gold medals?",
+        "answer_1": "Usain Bolt",
+        "answer_2": "Michael Phelps",
+        "answer_3": "Simone Biles",
+        "answer_4": "Serena Williams",
+        "right_answer": "Michael Phelps"
+    },
+
+    {
+        "title": "What is the highest individual score ever achieved in a Test cricket match?",
+        "answer_1": "375",
+        "answer_2": "400",
+        "answer_3": "463",
+        "answer_4": "501",
+        "right_answer": "400"
+    },
+
+    {
+        "title": "Who holds the record for the fastest 100-meter sprint in athletics?",
+        "answer_1": "Carl Lewis",
+        "answer_2": "Usain Bolt",
+        "answer_3": "Maurice Greene",
+        "answer_4": "Justin Gatlin",
+        "right_answer": "Usain Bolt"
+    },
+
+    {
+        "title": "Which country has won the most Olympic medals overall?",
+        "answer_1": "United States",
+        "answer_2": "China",
+        "answer_3": "Russia",
+        "answer_4": "Germany",
+        "right_answer": "United States"
+    },
+
+    {
+        "title": "Who won the Super Bowl in the previous year?",
+        "answer_1": "Kansas City Chiefs",
+        "answer_2": "New England Patriots",
+        "answer_3": "San Francisco 49ers",
+        "answer_4": "Tampa Bay Buccaneers",
+        "right_answer": "United States"
+    },
+    
+    {
+        "title": "Which team has won the most Stanley Cup championships in NHL history?",
+        "answer_1": "Montreal Canadiens",
+        "answer_2": "Pittsburgh Penguins",
+        "answer_3": "Edmonton Oilers",
+        "answer_4": "Detroit Red Wings",
+        "right_answer": "Montreal Canadiens"
+    },
+
+    {
+        "title": "Who is the current reigning champion in men's singles tennis at Wimbledon?",
+        "answer_1": "Novak Djokovic",
+        "answer_2": "Roger Federer",
+        "answer_3": "Rafael Nadal",
+        "answer_4": "Andy Murray",
+        "right_answer": "Novak Djokovic"
+    },
+
+    {
+        "title": "Which city has hosted the most Olympic Games?",
+        "answer_1": "Athens",
+        "answer_2": "Paris",
+        "answer_3": "London",
+        "answer_4": "Los Angeles",
+        "right_answer": "London"
+    }
+]
